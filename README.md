@@ -2,7 +2,7 @@
 
 ## Installation
 
-Navigate to the app home page and install to your account or individual repository
+Navigate to the [app home page](https://github.com/apps/exoaihq) and install to your account or individual repository
 
 ## How it works
 
